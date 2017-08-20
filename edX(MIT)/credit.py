@@ -1,0 +1,3 @@
+monthlyInterestRate = annualInterestRate/12.0
+minimumMonthlyPayment = minimumMonthlyPayment
+monthlyPaymentRate
